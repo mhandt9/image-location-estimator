@@ -1,0 +1,1 @@
+Attempt to train a DL model to estimate locations from images scraped from google streetview.
