@@ -1,5 +1,6 @@
 .env
 *.html
+*.ipynb
 
 imlo_env
 data
